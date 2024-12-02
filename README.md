@@ -1,4 +1,4 @@
 # Clustering
 </div>
-  <img src="test.jpg" width=100%>
+  <img src="test.png" width=100%>
 </div>
